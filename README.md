@@ -1,2 +1,5 @@
 # hello-world
-learning git
+learning git.
+i will build rom for Xiaomi redmi 3s prime.
+nice coding
+babababa
